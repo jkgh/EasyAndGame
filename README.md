@@ -1,10 +1,11 @@
 EasyAndGame
+http://www.public.asu.edu/~kueichen/workDemo/EasyAndGame/
 ===========
 
 an Eclipse Plugin for Android Game Application Development
 
 - To install:
-In Eclipse, "Help" > "Install New Software" > paste this link: http://www.public.asu.edu/~kueichen/workDemo/EasyAndGame/
+In Eclipse, "Help" > "Install New Software" > paste this link: http://www.public.asu.edu/~kueichen/workDemo/EasyAndGame/source/
 
 - Tutorial: 
 How to install and to use: http://www.youtube.com/watch?v=TU9RDLv3EDo
